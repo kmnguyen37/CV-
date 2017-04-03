@@ -15,7 +15,7 @@ Education
 **University of Arkansas** ___ *Spring 2012 - Spring 2014* 
 *B.S., Honors in Physics and Chemisty*   
 *Thesis Title: Differential binding of Bacterial Collagen-binding domain to Type I Collagen Fibrils.*
-* GPA 3.7*
+*GPA 3.7*
 
 Research Experience
 ----------
